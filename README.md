@@ -76,5 +76,5 @@ The simulator implements four classic CPU scheduling algorithms:
    - Each process gets a fixed time quantum.
    - Processes are executed in a circular manner.
   
-# Demo:- 
+## Demo:- 
 ![image](https://github.com/user-attachments/assets/04d2fe3f-5a9d-4b8e-92f8-f624012bb5c2)
